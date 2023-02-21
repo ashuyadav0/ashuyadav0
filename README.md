@@ -1,5 +1,6 @@
 ### Hi, I'm Ashu👋
 <hr>
+<div align="center">  <a href="https://github.com/ashuayadav0">  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ashuyadav0&show_icons=truecount_private=true&locale=es&custom_title=My%20GitHub%20Stats"/>  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashuyadav0&layout=compact&langs_count=10"/></div>
 
 Languages and Tools:
 
@@ -17,5 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">  <a href="https://github.com/ashuayadav0">  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ashuyadav0&show_icons=truecount_private=true&locale=es&custom_title=My%20GitHub%20Stats"/>  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashuyadav0&layout=compact&langs_count=10"/></div>
 <img align="center" alt="Icon of HTML5" src="https://skillicons.dev/icons?i=angular,arduino,bootstrap,cs,css,discord,docker,dotnet,eclipse,figma,git,html,java,jenkins,jquery,laravel,linkedin,linux,mysql,nginx,nodejs,php,postgres,react,sass,vscode,wordpress&theme=dark&perline=11">
