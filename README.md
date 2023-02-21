@@ -1,7 +1,7 @@
 ### Hi, I'm Ashu👋
 <hr>
 <img src=""
-<img src="![image](https://user-images.githubusercontent.com/114599753/220332736-31785299-f992-4247-84ef-2e3118af6a12.png)">
+<img src="Ashutosh-Yadav-21-2-2023.png">
 <div align="center">  
   <a href="https://github.com/ashuyadav0">  
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ashuyadav0&show_icons=truecount_private=true&locale=es&custom_title=My%20GitHub%20Stats"/>  
