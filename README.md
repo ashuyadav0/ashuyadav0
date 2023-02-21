@@ -1,7 +1,8 @@
-### Hi, I'm Ashu👋
+<h1 align="center">Hi, I'm Ashu👋</h1>
 <hr>
-<img src=""
+<div align="center">
 <img src="Ashutosh-Yadav-21-2-2023.png">
+  </div><br>
 <div align="center">  
   <a href="https://github.com/ashuyadav0">  
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ashuyadav0&show_icons=truecount_private=true&locale=es&custom_title=My%20GitHub%20Stats"/>  
