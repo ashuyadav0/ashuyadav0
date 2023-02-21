@@ -1,5 +1,6 @@
 ### Hi, I'm Ashu👋
 <hr>
+<img src=""
 <img src="![image](https://user-images.githubusercontent.com/114599753/220332736-31785299-f992-4247-84ef-2e3118af6a12.png)">
 <div align="center">  
   <a href="https://github.com/ashuyadav0">  
