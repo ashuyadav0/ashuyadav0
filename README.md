@@ -9,7 +9,8 @@
     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashuyadav0&layout=compact&langs_count=10"/>
 </div>
 <br>
-Languages and Tools:
+  <div align="center">
+Languages and Tools:<br><br>
 
 <!--
 **ashuyadav0/ashuyadav0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,3 +27,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img align="center" alt="Icon of HTML5" src="https://skillicons.dev/icons?i=angular,arduino,bootstrap,cs,css,discord,docker,dotnet,eclipse,figma,git,html,java,jenkins,jquery,laravel,linkedin,linux,mysql,nginx,nodejs,php,postgres,react,sass,vscode,wordpress&theme=dark&perline=11">
+  </div>
