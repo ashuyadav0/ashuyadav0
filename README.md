@@ -1,6 +1,6 @@
 ### Hi, I'm Ashu👋
 <hr>
-
+![image](https://user-images.githubusercontent.com/114599753/220332610-ae6baa23-227e-444c-8a22-da6392410823.png)
 <div align="center">  
   <a href="https://github.com/ashuyadav0">  
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ashuyadav0&show_icons=truecount_private=true&locale=es&custom_title=My%20GitHub%20Stats"/>  
