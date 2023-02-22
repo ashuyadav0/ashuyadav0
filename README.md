@@ -8,9 +8,8 @@
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ashuyadav0&show_icons=truecount_private=true&locale=es&custom_title=My%20GitHub%20Stats"/>  
     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashuyadav0&layout=compact&langs_count=10"/>
 </div>
-<br>
   <div align="center">
-Languages and Tools:<br><br>
+<h3>Languages and Tools:</h3>
 
 <!--
 **ashuyadav0/ashuyadav0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
